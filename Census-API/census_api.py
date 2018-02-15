@@ -5,7 +5,7 @@ Created on Tue Jan 30 13:24:16 2018
 @author: emrig
 
 This script compiles and executes API queries to the US Census Bureau. 
-See supporting doc: https://github.com/emrig/Investigative-Techniques/blob/master/Census_Bureau_API_Guide.md
+See supporting doc: https://github.com/TowCenter/API-examples/blob/master/Census-API/Census_API_Guide.md
 """
 
 #from census_api_key import API_key 

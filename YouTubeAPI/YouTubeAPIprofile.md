@@ -7,7 +7,7 @@ Data API v3, YouTube Reporting API, YouTube Analytics API, YouTube Ads
 Reach API. For this assignment, I have concentrated mainly on the
 YouTube Data API v3.
 
-<img src="./media/image1.png" width="537" height="69" />
+<img src="./image1.png" width="537" height="69" />
 
 Figure 1- YouTube APIs list
 
@@ -58,7 +58,7 @@ quality or limit access for others.” is stated on the website.
         also download the client\_secret.json from the page itself
         for usage)
 
-> <img src="./media/image2.png" width="601" height="285" />
+> <img src="./image2.png" width="601" height="285" />
 
 Figure 2- Getting credentials for your project
 
@@ -330,7 +330,7 @@ Video used - (https://www.youtube.com/watch?v=6OcOO1k-vGE)
 
     367760 views.”
 
-<img src="./media/image3.png" width="576" height="170" />
+<img src="./image3.png" width="576" height="170" />
 
 
 

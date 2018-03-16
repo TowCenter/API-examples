@@ -1,6 +1,7 @@
 # opencorporates API Profile
 
 Creation date: 02/05/18 10:51:58 PM
+
 @author Eric Bolton <edbltn@gmail.com>
 
 ## Query 1: Search for companies incorporated in Bermuda

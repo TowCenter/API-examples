@@ -11,12 +11,6 @@ The opencorporates API lets users perform searches of their database and returns
 'https://api.opencorporates.com/v0.4/companies/search?jurisdiction_code=bm'
 
 To generate this query, I modified code by Nikhil Kumar at [Geeks for Geeks](https://www.geeksforgeeks.org/get-post-requests-using-python/). The link provides a useful explanation for how to perform GET requests.
-## Query 1: Search for companies incorporated in Bermuda
-The opencorporates API lets users perform searches of their database and returns the results in JSON format. To test this feature, I used the following query:
-```
-'https://api.opencorporates.com/v0.4/companies/search?jurisdiction_code=bm'
-```
-To generate this query, I modified code by Nikhil Kumar at [Geeks for Geeks](https://www.geeksforgeeks.org/get-post-requests-using-python/). The link provides a useful explanation for how to perform GET requests.
 
 ```python
 import requests
@@ -133,7 +127,9 @@ However, some useful entries stand out:
 * **jurisdiction_code** in general, this gives the country in which the company was incorporated in 2-letter [ISO country code](http://www.nationsonline.org/oneworld/country_code_list.htm) format. However, smaller entities are also categorized as jurisdictions, such as U.S. states. In this case, the relevant code is given by the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) subcountry code. [Here](https://en.wikipedia.org/wiki/ISO_3166-2:US) is the relevant list for the U.S.
 * **source** gives details as to where and when the information was obtained.
 * **company_number** tells us how to find a company within the database, so we can drill down on specific companies. For example, Bunge Ltd., an agrobusiness corporation incorporated in Bermuda, has a company_number of '20791'.
-Query 2: Bunge Ltd.'s Statements
+
+## Query 2: Bunge Ltd.'s Statements
+
 To get the statements for a specific company, one can write a query with the following example format:
 ```
 'https://api.opencorporates.com/v0.4/companies/bm/20791/statements'

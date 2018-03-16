@@ -1,0 +1,1726 @@
+[{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-06-
+29T11:33:39.000","community_board":"03
+MANHATTAN","complaint_type":"Safety","created_date":"2010-06-
+24T05:58:28.000","cross_street_1":"CATHERINE STREET","cross_street_2":"OLIVER
+STREET","descriptor":"Altercation on School Property","due_date":"2010-06-
+28T05:58:28.000","facility_type":"School District","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"location_type":"School","longitude":"-73.99749303604514"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_action_updated_date":"2010-06-
+29T11:33:27.000","resolution_description":"The Department of Education is reviewing your
+Service Request. If you have not heard back from the Department of Education within 4 - 5
+business days of submitting the request, contact 311 for updated status: Monday - Friday,
+from 8 AM to 6 PM.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_not_found":"N","school_number":"001","school_or_citywide_complaint":"School","
+school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"16933958","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+":"198954"}
+,{"agency":"DOE","agency_name":"School - PS 1 Alfred E
+Smith","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-12-
+21T15:55:17.000","community_board":"03 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2010-12-17T16:25:45.000","cross_street_1":"CATHERINE
+STREET","cross_street_2":"OLIVER STREET","descriptor":"Graffiti","due_date":"2010-12-
+20T16:25:45.000","facility_type":"School","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"location_type":"School","longitude":"-73.99749303604514"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_action_updated_date":"2010-12-
+21T15:54:39.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_not_found":"N","school_number":"001","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"19369012","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+":"198954"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-09-
+13T15:22:11.000","community_board":"03
+MANHATTAN","complaint_type":"Safety","created_date":"2011-01-
+15T13:09:06.000","cross_street_1":"CATHERINE STREET","cross_street_2":"OLIVER
+STREET","descriptor":"Student Being Harassed","due_date":"2011-01-
+19T13:09:06.000","facility_type":"School District","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"location_type":"School","longitude":"-73.99749303604514"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_description":"The Department of Education is reviewing your Service
+Request. If you have not heard back from the Department of Education within 4 - 5 business
+days of submitting the request, contact 311 for updated status: Monday - Friday, from 8 AM to
+6 PM.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_not_found":"N","school_number":"001","school_or_citywide_complaint":"School","
+school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"19607177","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+":"198954"}
+,{"agency":"DOE","agency_name":"School - PS 1 Alfred E
+Smith","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-06-
+10T14:02:29.000","community_board":"03 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2011-06-09T11:12:08.000","cross_street_1":"CATHERINE
+STREET","cross_street_2":"OLIVER STREET","descriptor":"Unclean Condition","due_date":"2011-
+06-16T11:12:08.000","facility_type":"School","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"location_type":"School","longitude":"-73.99749303604514"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_action_updated_date":"2011-06-
+10T14:02:29.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_not_found":"N","school_number":"001","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"20602454","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+":"198954"}
+,{"agency":"DOE","agency_name":"School - PS 1 Alfred E
+Smith","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2013-01-
+14T13:32:53.000","community_board":"03 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2013-01-04T11:20:11.000","cross_street_1":"CATHERINE
+STREET","cross_street_2":"OLIVER STREET","descriptor":"Heating Problem","due_date":"2013-01-
+11T11:20:11.000","facility_type":"School","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"location_type":"School","longitude":"-73.99749303604514"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_action_updated_date":"2013-01-
+14T13:31:22.000","resolution_description":"The Department of Education inspected the site and
+was not able to locate the reported condition.  If the condition persists please file a new
+service request with more details.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_not_found":"N","school_number":"001","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"24719119","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+":"198954"}
+,{"agency":"DOE","agency_name":"School - PS 1 Alfred E
+Smith","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2014-08-
+13T15:16:51.000","community_board":"03 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2013-01-17T12:08:32.000","cross_street_1":"CATHERINE
+STREET","cross_street_2":"OLIVER STREET","descriptor":"Unclean Condition","due_date":"2013-
+01-24T12:08:32.000","facility_type":"School","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"location_type":"School","longitude":"-73.99749303604514"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_action_updated_date":"2014-08-
+13T15:16:52.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_not_found":"N","school_number":"001","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"24802833","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+":"198954"}
+,{"agency":"DOE","agency_name":"School - PS 1 Alfred E
+Smith","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2014-08-
+13T15:22:23.000","community_board":"03 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2013-01-28T12:47:46.000","cross_street_1":"CATHERINE
+STREET","cross_street_2":"OLIVER STREET","descriptor":"Heating Problem","due_date":"2013-01-
+31T12:47:46.000","facility_type":"School","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"location_type":"School","longitude":"-73.99749303604514"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_action_updated_date":"2014-08-
+13T15:22:23.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_not_found":"N","school_number":"001","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"24883209","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+":"198954"}
+,{"agency":"DOE","agency_name":"School - PS 1 Alfred E
+Smith","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2014-08-
+14T12:11:05.000","community_board":"03 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2013-02-07T19:45:45.000","cross_street_1":"CATHERINE
+STREET","cross_street_2":"OLIVER STREET","descriptor":"Heating Problem","due_date":"2013-02-
+10T19:45:45.000","facility_type":"School","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"location_type":"School","longitude":"-73.99749303604514"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_action_updated_date":"2014-08-
+14T12:11:05.000","resolution_description":"The Department of Education inspected the site and
+was not able to locate the reported condition.  If the condition persists please file a new
+service request with more details.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_not_found":"N","school_number":"001","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"24956351","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+":"198954"}
+,{"agency":"DOE","agency_name":"School - PS 1 Alfred E
+Smith","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2013-05-
+31T09:47:57.000","community_board":"03 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2013-05-28T21:41:02.000","cross_street_1":"CATHERINE
+STREET","cross_street_2":"OLIVER STREET","descriptor":"Rodents/Mice","due_date":"2013-06-
+04T21:41:02.000","facility_type":"School","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"longitude":"-73.99749303604514","park_borough":"MANHATTA
+N","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_action_updated_date":"2013-05-
+31T09:45:09.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_number":"001","school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"25623628","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+":"198954"}
+,{"agency":"DOE","agency_name":"School - PS 1 Alfred E
+Smith","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2013-12-
+30T09:21:50.000","community_board":"03 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2013-10-23T10:58:37.000","cross_street_1":"CATHERINE
+STREET","cross_street_2":"OLIVER STREET","descriptor":"Rodents/Mice","due_date":"2013-10-
+30T10:58:37.000","facility_type":"School","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"longitude":"-73.99749303604514","park_borough":"MANHATTA
+N","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_action_updated_date":"2013-12-
+30T09:21:50.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_number":"001","school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"26539077","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+ ":"198954"}
+,{"agency":"DOE","agency_name":"School - PS 1 Alfred E
+Smith","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2015-12-
+16T15:47:21.000","community_board":"03 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2015-11-02T13:45:19.000","cross_street_1":"CATHERINE
+STREET","cross_street_2":"OLIVER STREET","descriptor":"Other School
+Condition","due_date":"2015-11-
+09T13:45:19.000","facility_type":"School","incident_address":"8 HENRY
+STREET","incident_zip":"10038","latitude":"40.712759490022115","location":
+{"type":"Point","coordinates":
+[-73.997493036045,40.712759490022]},"location_type":"School","longitude":"-73.99749303604514"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 1 Alfred E
+Smith","resolution_action_updated_date":"2015-12-
+16T15:47:21.000","resolution_description":"The Department of Education determined that this
+issue is not within its jurisdiction. It has been referred to the Department of Parks and
+Recreation.","school_address":"8 Henry Street","school_city":"NEW
+YORK","school_code":"02M001","school_name":"School - PS 1 Alfred E
+Smith","school_not_found":"N","school_number":"001","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10038","status":"Closed","street_name":"HENRY
+STREET","unique_key":"31894454","x_coordinate_state_plane":"984945","y_coordinate_state_plane
+":"198954"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-04-
+28T13:13:09.000","community_board":"03
+MANHATTAN","complaint_type":"Health","created_date":"2010-02-
+07T12:27:11.000","cross_street_1":"RUTGERS STREET","cross_street_2":"PIKE
+STREET","descriptor":"Unhealthy Condition in School","due_date":"2010-02-
+11T12:27:11.000","facility_type":"School District","incident_address":"122 HENRY
+STREET","incident_zip":"10002","latitude":"40.7132724619643","location":
+{"type":"Point","coordinates":
+[-73.991339184477,40.713272461964]},"location_type":"School","longitude":"-73.99133918447694"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 2 Meyer
+London","resolution_action_updated_date":"2010-04-
+28T13:13:04.000","resolution_description":"The Department of Education is reviewing your
+Service Request. If you have not heard back from the Department of Education within 4 - 5
+business days of submitting the request, contact 311 for updated status: Monday - Friday,
+from 8 AM to 6 PM.","school_address":"122 Henry Street","school_city":"NEW
+YORK","school_code":"02M002","school_name":"School - PS 2 Meyer
+London","school_not_found":"N","school_number":"002","school_or_citywide_complaint":"School",
+"school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10002","status":"Closed","street_name":"HENRY
+STREET","unique_key":"15951464","x_coordinate_state_plane":"986651","y_coordinate_state_plane
+":"199141"}
+,{"agency":"DOE","agency_name":"School - PS 2 Meyer London","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2010-07-06T08:52:57.000","community_board":"03
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2010-05-
+19T20:08:09.000","cross_street_1":"RUTGERS STREET","cross_street_2":"PIKE
+STREET","descriptor":"Rodents/Mice","due_date":"2010-05-
+26T20:08:09.000","facility_type":"School","incident_address":"122 HENRY
+STREET","incident_zip":"10002","latitude":"40.7132724619643","location":
+{"type":"Point","coordinates":
+[-73.991339184477,40.713272461964]},"location_type":"School","longitude":"-73.99133918447694"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 2 Meyer
+London","resolution_action_updated_date":"2010-07-06T00:00:00.000","school_address":"122
+Henry Street","school_city":"NEW YORK","school_code":"02M002","school_name":"School - PS 2
+Meyer London","school_not_found":"N","school_number":"002","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10002","status":"Closed","street_name":"HENRY
+STREET","unique_key":"16688514","x_coordinate_state_plane":"986651","y_coordinate_state_plane
+":"199141"}
+,{"agency":"DOE","agency_name":"School - PS 2 Meyer London","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2010-08-18T10:59:12.000","community_board":"03
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2010-07-
+30T16:14:45.000","cross_street_1":"RUTGERS STREET","cross_street_2":"PIKE
+ STREET","descriptor":"Rodents/Mice","due_date":"2010-08-
+06T16:14:45.000","facility_type":"School","incident_address":"122 HENRY
+STREET","incident_zip":"10002","latitude":"40.7132724619643","location":
+{"type":"Point","coordinates":
+[-73.991339184477,40.713272461964]},"location_type":"School","longitude":"-73.99133918447694"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 2 Meyer
+London","resolution_action_updated_date":"2010-08-18T00:00:00.000","school_address":"122
+Henry Street","school_city":"NEW YORK","school_code":"02M002","school_name":"School - PS 2
+Meyer London","school_not_found":"N","school_number":"002","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10002","status":"Closed","street_name":"HENRY
+STREET","unique_key":"18377109","x_coordinate_state_plane":"986651","y_coordinate_state_plane
+":"199141"}
+,{"agency":"DOE","agency_name":"School - PS 2 Meyer London","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2011-05-31T14:18:06.000","community_board":"03
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2011-05-
+27T14:06:58.000","cross_street_1":"RUTGERS STREET","cross_street_2":"PIKE
+STREET","descriptor":"Unclean Condition","due_date":"2011-06-
+03T14:06:58.000","facility_type":"School","incident_address":"122 HENRY
+STREET","incident_zip":"10002","latitude":"40.7132724619643","location":
+{"type":"Point","coordinates":
+[-73.991339184477,40.713272461964]},"location_type":"School","longitude":"-73.99133918447694"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 2 Meyer
+London","resolution_action_updated_date":"2011-05-
+31T14:18:06.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"122 Henry Street","school_city":"NEW
+YORK","school_code":"02M002","school_name":"School - PS 2 Meyer
+London","school_not_found":"N","school_number":"002","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10002","status":"Closed","street_name":"HENRY
+STREET","unique_key":"20519751","x_coordinate_state_plane":"986651","y_coordinate_state_plane
+":"199141"}
+,{"agency":"DOE","agency_name":"School - PS 2 Meyer London","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2012-02-01T15:59:57.000","community_board":"03
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2011-09-
+09T16:32:31.000","cross_street_1":"RUTGERS STREET","cross_street_2":"PIKE
+STREET","descriptor":"Unclean Condition","due_date":"2011-09-
+16T16:32:31.000","facility_type":"School","incident_address":"122 HENRY
+STREET","incident_zip":"10002","latitude":"40.7132724619643","location":
+{"type":"Point","coordinates":
+[-73.991339184477,40.713272461964]},"location_type":"School","longitude":"-73.99133918447694"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 2 Meyer
+London","resolution_action_updated_date":"2012-02-
+01T15:59:58.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"122 Henry Street","school_city":"NEW
+YORK","school_code":"02M002","school_name":"School - PS 2 Meyer
+London","school_not_found":"N","school_number":"002","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10002","status":"Closed","street_name":"HENRY
+STREET","unique_key":"21399287","x_coordinate_state_plane":"986651","y_coordinate_state_plane
+":"199141"}
+,{"agency":"DOE","agency_name":"School - PS 2 Meyer London","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2012-12-10T13:30:06.000","community_board":"03
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2012-11-
+07T17:41:53.000","cross_street_1":"RUTGERS STREET","cross_street_2":"PIKE
+STREET","descriptor":"Heating Problem","due_date":"2012-11-
+14T17:41:53.000","facility_type":"School","incident_address":"122 HENRY
+STREET","incident_zip":"10002","latitude":"40.7132724619643","location":
+{"type":"Point","coordinates":
+[-73.991339184477,40.713272461964]},"location_type":"School","longitude":"-73.99133918447694"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 2 Meyer
+London","resolution_action_updated_date":"2012-12-
+10T13:30:06.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"122 Henry Street","school_city":"NEW
+YORK","school_code":"02M002","school_name":"School - PS 2 Meyer
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10002","status":"Closed","street_name":"HENRY
+STREET","unique_key":"24357041","x_coordinate_state_plane":"986651","y_coordinate_state_plane
+":"199141"}
+,{"agency":"DOE","agency_name":"School - PS 2 Meyer London","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2012-12-10T13:30:06.000","community_board":"03
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2012-11-
+08T10:52:56.000","cross_street_1":"RUTGERS STREET","cross_street_2":"PIKE
+STREET","descriptor":"Heating Problem","due_date":"2012-11-
+14T17:41:53.000","facility_type":"School","incident_address":"122 HENRY
+STREET","incident_zip":"10002","latitude":"40.7132724619643","location":
+{"type":"Point","coordinates":
+[-73.991339184477,40.713272461964]},"location_type":"School","longitude":"-73.99133918447694"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 2 Meyer
+London","resolution_action_updated_date":"2012-12-
+10T13:27:02.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"122 Henry Street","school_city":"NEW
+YORK","school_code":"02M002","school_name":"School - PS 2 Meyer
+London","school_not_found":"N","school_number":"002","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10002","status":"Closed","street_name":"HENRY
+STREET","unique_key":"24365252","x_coordinate_state_plane":"986651","y_coordinate_state_plane
+":"199141"}
+,{"agency":"DOE","agency_name":"School - PS 2 Meyer London","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2013-07-29T10:28:59.000","community_board":"03
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2013-06-
+07T15:58:43.000","cross_street_1":"RUTGERS STREET","cross_street_2":"PIKE
+STREET","descriptor":"Other School Condition","due_date":"2013-06-
+14T15:58:43.000","facility_type":"School","incident_address":"122 HENRY
+STREET","incident_zip":"10002","latitude":"40.7132724619643","location":
+{"type":"Point","coordinates":
+[-73.991339184477,40.713272461964]},"location_type":"School","longitude":"-73.99133918447694"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 2 Meyer
+London","resolution_action_updated_date":"2013-07-
+29T10:27:53.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"122 Henry Street","school_city":"NEW
+YORK","school_code":"02M002","school_name":"School - PS 2 Meyer
+London","school_not_found":"N","school_number":"002","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10002","status":"Closed","street_name":"HENRY
+STREET","unique_key":"25693471","x_coordinate_state_plane":"986651","y_coordinate_state_plane
+":"199141"}
+,{"agency":"DOE","agency_name":"School - PS 2 Meyer London","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2017-03-16T15:21:53.000","community_board":"03
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2017-03-
+16T10:00:11.000","cross_street_1":"RUTGERS STREET","cross_street_2":"PIKE
+STREET","descriptor":"Snow/Ice","due_date":"2017-03-
+23T10:00:11.000","facility_type":"School","incident_address":"122 HENRY
+STREET","incident_zip":"10002","latitude":"40.7132724619643","location":
+{"type":"Point","coordinates":
+[-73.991339184477,40.713272461964]},"location_type":"School","longitude":"-73.99133918447694"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 2 Meyer
+London","resolution_action_updated_date":"2017-03-
+16T15:21:53.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"122 Henry Street","school_city":"NEW
+YORK","school_code":"02M002","school_name":"School - PS 2 Meyer
+London","school_not_found":"N","school_number":"002","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10002","status":"Closed","street_name":"HENRY
+STREET","unique_key":"35714598","x_coordinate_state_plane":"986651","y_coordinate_state_plane
+":"199141"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2017-12-
+04T09:23:14.000","community_board":"02 MANHATTAN","complaint_type":"School
+ Maintenance","created_date":"2017-11-29T21:16:32.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Plumbing Problem","due_date":"2017-12-
+06T21:16:32.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"location_type":"School","longitude":"-74.00646592312069",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 3 Charrette
+School","resolution_action_updated_date":"2017-12-
+04T09:23:14.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_not_found":"N","school_number":"003","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"37815270","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-03-
+04T13:23:53.000","community_board":"02 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2010-02-25T17:53:16.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Plumbing Problem","due_date":"2010-03-
+04T17:53:16.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"location_type":"School","longitude":"-74.00646592312069",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 3 Charrette
+School","resolution_action_updated_date":"2010-03-04T00:00:00.000","school_address":"490
+Hudson Street","school_city":"NEW YORK","school_code":"02M003","school_name":"School - PS 3
+Charrette School","school_not_found":"N","school_number":"003","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"16082895","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-09-
+13T15:16:25.000","community_board":"02
+MANHATTAN","complaint_type":"Health","created_date":"2011-06-
+08T07:56:14.000","cross_street_1":"CHRISTOPHER STREET","cross_street_2":"GROVE
+STREET","descriptor":"Unhealthy Condition in School","due_date":"2011-06-
+12T07:56:14.000","facility_type":"School District","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"location_type":"School","longitude":"-74.00646592312069",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 3 Charrette
+School","resolution_description":"The Department of Education is reviewing your Service
+Request. If you have not heard back from the Department of Education within 4 - 5 business
+days of submitting the request, contact 311 for updated status: Monday - Friday, from 8 AM to
+6 PM.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_not_found":"N","school_number":"003","school_or_citywide_complaint":"School",
+"school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"20594016","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-06-
+13T14:03:35.000","community_board":"02 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2011-06-08T09:03:28.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Air Conditioning
+Problem","due_date":"2011-06-
+15T09:03:28.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"location_type":"School","longitude":"-74.00646592312069",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 3 Charrette
+ School","resolution_action_updated_date":"2011-06-
+13T14:03:36.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_not_found":"N","school_number":"003","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"20594057","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2013-09-
+25T11:05:49.000","community_board":"02 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2013-09-17T20:28:43.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Rodents/Mice","due_date":"2013-09-
+24T20:28:43.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"longitude":"-74.00646592312069","park_borough":"MANHATTAN
+","park_facility_name":"School - PS 3 Charrette
+School","resolution_action_updated_date":"2013-09-
+25T11:05:49.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_number":"003","school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"26332323","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2015-07-
+14T11:14:38.000","community_board":"02 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2014-10-30T10:29:49.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Other School
+Condition","due_date":"2014-11-
+06T10:29:49.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"location_type":"School","longitude":"-74.00646592312069",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 3 Charrette
+School","resolution_action_updated_date":"2015-07-
+14T11:14:38.000","resolution_description":"The Department of Education inspected the site and
+was not able to locate the reported condition.  If the condition persists please file a new
+service request with more details.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_not_found":"N","school_number":"003","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"29182664","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2014-11-
+17T09:15:10.000","community_board":"02 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2014-11-07T16:37:55.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Unclean Condition","due_date":"2014-11-
+14T16:37:55.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"location_type":"School","longitude":"-74.00646592312069",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 3 Charrette
+School","resolution_action_updated_date":"2014-11-
+17T09:15:11.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_not_found":"N","school_number":"003","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+ STREET","unique_key":"29242740","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2015-03-
+17T10:31:23.000","community_board":"02 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2015-03-10T09:29:31.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Plumbing Problem","due_date":"2015-03-
+17T09:29:31.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"location_type":"School","longitude":"-74.00646592312069",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 3 Charrette
+School","resolution_action_updated_date":"2015-03-
+17T10:31:23.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_not_found":"N","school_number":"003","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"30145731","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2016-04-
+19T14:12:12.000","community_board":"02 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2015-11-06T10:59:38.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Heating Problem","due_date":"2015-11-
+13T10:59:38.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"location_type":"School","longitude":"-74.00646592312069",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 3 Charrette
+School","resolution_action_updated_date":"2016-04-
+19T14:12:12.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_not_found":"N","school_number":"003","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"31928108","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2016-04-
+05T14:29:32.000","community_board":"02 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2016-04-05T10:12:19.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Rodents/Mice","due_date":"2016-04-
+12T10:12:19.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"longitude":"-74.00646592312069","park_borough":"MANHATTAN
+","park_facility_name":"School - PS 3 Charrette
+School","resolution_action_updated_date":"2016-04-
+05T14:29:32.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_number":"003","school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"33068362","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2016-05-
+04T14:17:12.000","community_board":"02 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2016-04-06T12:40:49.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Rodents/Mice","due_date":"2016-04-
+13T12:40:49.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+ {"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"longitude":"-74.00646592312069","park_borough":"MANHATTAN
+","park_facility_name":"School - PS 3 Charrette
+School","resolution_action_updated_date":"2016-05-
+04T14:17:12.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_number":"003","school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"33071671","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"School - PS 3 Charrette
+School","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2016-07-
+08T09:39:58.000","community_board":"02 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2016-05-13T19:53:03.000","cross_street_1":"CHRISTOPHER
+STREET","cross_street_2":"GROVE STREET","descriptor":"Rodents/Mice","due_date":"2016-05-
+20T19:53:03.000","facility_type":"School","incident_address":"490 HUDSON
+STREET","incident_zip":"10014","latitude":"40.73259295793019","location":
+{"type":"Point","coordinates":
+[-74.006465923121,40.73259295793]},"location_type":"School","longitude":"-74.00646592312069",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 3 Charrette
+School","resolution_action_updated_date":"2016-07-
+08T09:39:58.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"490 Hudson Street","school_city":"NEW
+YORK","school_code":"02M003","school_name":"School - PS 3 Charrette
+School","school_not_found":"N","school_number":"003","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10014","status":"Closed","street_name":"HUDSON
+STREET","unique_key":"33349913","x_coordinate_state_plane":"982458","y_coordinate_state_plane
+":"206180"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-01-
+13T09:40:13.000","community_board":"12 MANHATTAN","complaint_type":"Discipline and
+Suspension","created_date":"2010-01-
+12T18:17:19.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Student/Parent Rights","due_date":"2010-01-
+17T18:17:19.000","facility_type":"School District","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"longitude":"-73.94108479511893","park_borough":"MANHATTA
+N","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2010-01-
+13T09:39:36.000","resolution_description":"The Department of Education is reviewing your
+Service Request. If you have not heard back from the Department of Education within 4 - 5
+business days of submitting the request, contact 311 for updated status: Monday - Friday,
+from 8 AM to 6 PM.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_number":"004","school_or_citywide_complaint":"School","school_phone_number
+":"NA 0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"15715595","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-02-
+03T14:45:22.000","community_board":"12 MANHATTAN","complaint_type":"Parent
+Leadership","created_date":"2010-02-
+03T08:50:20.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Complaint","due_date":"2010-02-08T08:50:20.000","facility_type":"School
+District","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2010-02-
+03T14:44:43.000","resolution_description":"The Department of Education is reviewing your
+ Service Request. If you have not heard back from the Department of Education within 4 - 5
+business days of submitting the request, contact 311 for updated status: Monday - Friday,
+from 8 AM to 6 PM.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_or_citywide_complaint":"Schoo
+l","school_phone_number":"NA 0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"15924348","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-09-
+13T15:16:42.000","community_board":"12 MANHATTAN","complaint_type":"DOE Complaint or
+Compliment","created_date":"2010-09-
+06T17:26:54.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Maintenance Complaint","due_date":"2010-09-
+11T17:26:54.000","facility_type":"School District","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_description":"The Department of Education is reviewing your Service
+Request. If you have not heard back from the Department of Education within 4 - 5 business
+days of submitting the request, contact 311 for updated status: Monday - Friday, from 8 AM to
+6 PM.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_or_citywide_complaint":"Schoo
+l","school_phone_number":"NA 0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"18629883","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"School - PS 4 Duke
+Ellington","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-12-
+15T11:45:59.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2010-12-
+14T15:52:31.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Unclean Condition","due_date":"2010-12-
+21T15:52:31.000","facility_type":"School","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2010-12-
+15T11:45:59.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"19338130","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"School - PS 4 Duke
+Ellington","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-01-
+21T10:37:01.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2011-01-
+20T20:14:22.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Unclean Condition","due_date":"2011-01-
+27T20:14:22.000","facility_type":"School","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2011-01-
+21T10:37:01.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+ Ellington","school_not_found":"N","school_number":"004","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"19639985","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"School - PS 4 Duke
+Ellington","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-02-
+04T10:41:08.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2011-02-
+01T08:25:13.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Unclean Condition","due_date":"2011-02-
+08T08:25:13.000","facility_type":"School","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2011-02-
+04T10:41:08.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"19735954","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"School - PS 4 Duke
+Ellington","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2012-03-
+14T10:42:44.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2012-02-
+29T19:09:01.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Rodents/Mice","due_date":"2012-03-
+07T19:09:01.000","facility_type":"School","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2012-03-
+14T10:42:44.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"22798258","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"School - PS 4 Duke
+Ellington","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2013-07-
+09T08:41:33.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2013-06-
+20T21:29:41.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Unclean Condition","due_date":"2013-06-
+27T21:29:41.000","facility_type":"School","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2013-07-
+09T08:41:33.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"25786376","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+ ,{"agency":"DOE","agency_name":"School - PS 4 Duke
+Ellington","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2015-07-
+14T08:32:39.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2015-06-
+22T21:20:59.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Other School Condition","due_date":"2015-06-
+29T21:20:59.000","facility_type":"School","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2015-07-
+14T08:32:39.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"30912083","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"School - PS 4 Duke
+Ellington","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2015-09-
+28T15:00:41.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2015-09-
+11T14:29:48.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Other School Condition","due_date":"2015-09-
+18T14:29:48.000","facility_type":"School","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2015-09-
+28T15:00:41.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"31511874","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"School - PS 4 Duke
+Ellington","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2016-12-
+21T14:07:19.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2016-12-
+20T12:00:34.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Heating Problem","due_date":"2016-12-
+23T12:00:34.000","facility_type":"School","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2016-12-
+21T14:07:20.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"35066834","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"School - PS 4 Duke
+Ellington","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2017-07-
+03T09:17:17.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2017-06-
+15T15:16:18.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+ AVENUE","descriptor":"Other School Condition","due_date":"2017-06-
+22T15:16:18.000","facility_type":"School","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2017-07-
+03T09:17:17.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"36456725","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"School - PS 4 Duke
+Ellington","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2017-07-
+03T09:17:16.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2017-06-
+15T15:04:54.000","cross_street_1":"BROADWAY","cross_street_2":"AMSTERDAM
+AVENUE","descriptor":"Air Conditioning Problem","due_date":"2017-06-
+22T15:04:54.000","facility_type":"School","incident_address":"500 WEST 160
+STREET","incident_zip":"10032","latitude":"40.83489901364428","location":
+{"type":"Point","coordinates":
+[-73.941084795119,40.834899013644]},"location_type":"School","longitude":"-73.94108479511893"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 4 Duke
+Ellington","resolution_action_updated_date":"2017-07-
+03T09:17:16.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"500 West 160 Street","school_city":"NEW
+YORK","school_code":"06M004","school_name":"School - PS 4 Duke
+Ellington","school_not_found":"N","school_number":"004","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 160
+STREET","unique_key":"36457294","x_coordinate_state_plane":"1000553","y_coordinate_state_plan
+e":"243459"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2018-01-25T11:02:57.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2017-10-
+19T09:10:56.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Other School Condition","due_date":"2017-10-
+26T09:10:56.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2018-01-
+25T11:02:57.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"37467831","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2011-02-08T12:18:11.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2011-02-
+03T09:05:58.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Snow/Ice","due_date":"2011-02-
+10T09:05:58.000","facility_type":"School","incident_address":"3703 TENTH
+AVENUE","incident_zip":"10034","latitude":"40.85923371532957","location":
+{"type":"Point","coordinates":
+[-73.922716668006,40.85923371533]},"location_type":"School","longitude":"-73.92271666800622",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2011-02-
+ 08T12:18:11.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"TENTH
+AVENUE","unique_key":"19752077","x_coordinate_state_plane":"1005628","y_coordinate_state_plan
+e":"252329"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-03-31T09:03:18.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2013-12-
+20T09:55:25.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Rodents/Mice","due_date":"2013-12-
+27T09:55:25.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2014-03-
+31T09:03:18.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"26923668","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-03-31T08:57:51.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-02-
+11T08:38:35.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Snow/Ice","due_date":"2014-02-
+18T08:38:35.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2014-03-
+31T08:57:39.000","resolution_description":"The Department of Education determined that this
+issue is not within its jurisdiction. It has been referred to the Department of
+Transportation.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"27402102","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-03-31T08:57:51.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-02-
+14T08:37:13.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Snow/Ice","due_date":"2014-02-
+18T08:38:35.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2014-03-
+31T08:57:39.000","resolution_description":"The Department of Education determined that this
+issue is not within its jurisdiction. It has been referred to the Department of
+Transportation.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+ AVENUE","unique_key":"27432840","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-03-31T08:57:51.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-02-
+14T08:33:56.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Snow/Ice","due_date":"2014-02-
+18T08:38:35.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2014-03-
+31T08:57:39.000","resolution_description":"The Department of Education determined that this
+issue is not within its jurisdiction. It has been referred to the Department of
+Transportation.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"27437958","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-03-31T08:57:51.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-02-
+14T08:22:44.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Snow/Ice","due_date":"2014-02-
+18T08:38:35.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2014-03-
+31T08:57:39.000","resolution_description":"The Department of Education determined that this
+issue is not within its jurisdiction. It has been referred to the Department of
+Transportation.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"27437959","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-03-31T08:57:51.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-02-
+14T08:40:49.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Snow/Ice","due_date":"2014-02-
+18T08:38:35.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2014-03-
+31T08:57:39.000","resolution_description":"The Department of Education determined that this
+issue is not within its jurisdiction. It has been referred to the Department of
+Transportation.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"27437995","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-04-04T13:37:32.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-04-
+ 02T08:30:55.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Unclean Condition","due_date":"2014-04-
+09T08:30:55.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2014-04-
+04T13:37:32.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"27768715","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-04-24T10:05:43.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-04-
+21T09:50:05.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Unclean Condition","due_date":"2014-04-
+28T09:50:05.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2014-04-
+24T10:05:43.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"27889897","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-09-19T12:06:44.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-09-
+17T10:49:02.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Unclean Condition","due_date":"2014-09-
+24T10:49:02.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2014-09-
+19T12:06:44.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"28901659","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-12-15T08:35:41.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-12-
+05T08:37:09.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Rodents/Mice","due_date":"2014-12-
+12T08:37:09.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2014-12-
+ 15T08:35:41.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"29436454","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2015-05-05T14:40:55.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-12-
+05T08:32:03.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Heating Problem","due_date":"2014-12-
+08T08:32:03.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2015-05-
+05T14:40:55.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"29441432","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2015-03-04T14:24:49.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2015-03-
+02T08:22:02.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Snow/Ice","due_date":"2015-03-
+09T08:22:02.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2015-03-
+04T14:24:49.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"30071628","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2016-02-09T10:17:03.000","community_board":"12
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2016-01-
+26T08:24:01.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Snow/Ice","due_date":"2016-02-
+02T08:24:01.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"longitude":"-73.92289047531877","park_borough":"MANHATTAN
+","park_facility_name":"School - PS 5 Ellen Lurie","resolution_action_updated_date":"2016-02-
+09T10:17:03.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_number":"005","school_phone_number":"NA 0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"32538825","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"School - PS 5 Ellen Lurie","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2017-06-21T10:42:28.000","community_board":"12
+ MANHATTAN","complaint_type":"School Maintenance","created_date":"2017-06-
+19T10:49:04.000","cross_street_1":"ACADEMY STREET","cross_street_2":"DYCKMAN
+STREET","descriptor":"Other School Condition","due_date":"2017-06-
+26T10:49:04.000","facility_type":"School","incident_address":"3703 10
+AVENUE","incident_zip":"10034","latitude":"40.85898955325026","location":
+{"type":"Point","coordinates":
+[-73.922890475319,40.85898955325]},"location_type":"School","longitude":"-73.92289047531877",
+"park_borough":"MANHATTAN","park_facility_name":"School - PS 5 Ellen
+Lurie","resolution_action_updated_date":"2017-06-
+21T10:42:28.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"3703 10 Avenue","school_city":"NEW
+YORK","school_code":"06M005","school_name":"School - PS 5 Ellen
+Lurie","school_not_found":"N","school_number":"005","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10034","status":"Closed","street_name":"10
+AVENUE","unique_key":"36488697","x_coordinate_state_plane":"1005580","y_coordinate_state_plan
+e":"252240"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-04-
+29T07:47:20.000","community_board":"08
+MANHATTAN","complaint_type":"Health","created_date":"2010-01-
+04T17:15:15.000","cross_street_1":"PARK AVENUE","cross_street_2":"MADISON
+AVENUE","descriptor":"Unhealthy Condition in School","due_date":"2010-01-
+08T17:15:15.000","facility_type":"School District","incident_address":"45 EAST 81
+STREET","incident_zip":"10028","latitude":"40.77745479875274","location":
+{"type":"Point","coordinates":
+[-73.960712549804,40.777454798753]},"location_type":"School","longitude":"-73.96071254980421"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 6 Lillie D
+Blake","resolution_action_updated_date":"2010-04-
+29T07:46:32.000","resolution_description":"The Department of Education is reviewing your
+Service Request. If you have not heard back from the Department of Education within 4 - 5
+business days of submitting the request, contact 311 for updated status: Monday - Friday,
+from 8 AM to 6 PM.","school_address":"45 East 81 Street","school_city":"NEW
+YORK","school_code":"02M006","school_name":"School - PS 6 Lillie D
+Blake","school_not_found":"N","school_number":"006","school_or_citywide_complaint":"School","
+school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10028","status":"Closed","street_name":"EAST 81
+STREET","unique_key":"15650045","x_coordinate_state_plane":"995131","y_coordinate_state_plane
+":"222527"}
+,{"agency":"DOE","agency_name":"School - PS 6 Lillie D
+Blake","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-07-
+07T14:07:34.000","community_board":"08 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2010-07-07T10:00:18.000","cross_street_1":"PARK
+AVENUE","cross_street_2":"MADISON AVENUE","descriptor":"Rodents/Mice","due_date":"2010-07-
+14T10:00:18.000","facility_type":"School","incident_address":"45 EAST 81
+STREET","incident_zip":"10028","latitude":"40.77745479875274","location":
+{"type":"Point","coordinates":
+[-73.960712549804,40.777454798753]},"location_type":"School","longitude":"-73.96071254980421"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 6 Lillie D
+Blake","resolution_action_updated_date":"2010-07-07T00:00:00.000","school_address":"45 East
+81 Street","school_city":"NEW YORK","school_code":"02M006","school_name":"School - PS 6
+Lillie D Blake","school_not_found":"N","school_number":"006","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10028","status":"Closed","street_name":"EAST 81
+STREET","unique_key":"17596151","x_coordinate_state_plane":"995131","y_coordinate_state_plane
+":"222527"}
+,{"agency":"DOE","agency_name":"School - PS 6 Lillie D
+Blake","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-09-
+15T11:13:58.000","community_board":"08 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2010-09-07T11:35:15.000","cross_street_1":"PARK
+AVENUE","cross_street_2":"MADISON AVENUE","descriptor":"Other School
+Condition","due_date":"2010-09-
+14T11:35:15.000","facility_type":"School","incident_address":"45 EAST 81
+STREET","incident_zip":"10028","latitude":"40.77745479875274","location":
+{"type":"Point","coordinates":
+ [-73.960712549804,40.777454798753]},"location_type":"School","longitude":"-73.96071254980421"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 6 Lillie D
+Blake","resolution_action_updated_date":"2010-09-15T00:00:00.000","school_address":"45 East
+81 Street","school_city":"NEW YORK","school_code":"02M006","school_name":"School - PS 6
+Lillie D Blake","school_not_found":"N","school_number":"006","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10028","status":"Closed","street_name":"EAST 81
+STREET","unique_key":"18638966","x_coordinate_state_plane":"995131","y_coordinate_state_plane
+":"222527"}
+,{"agency":"DOE","agency_name":"School - PS 6 Lillie D
+Blake","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-09-
+28T10:56:12.000","community_board":"08 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2011-09-23T10:55:13.000","cross_street_1":"PARK
+AVENUE","cross_street_2":"MADISON AVENUE","descriptor":"Other School
+Condition","due_date":"2011-09-
+30T10:55:13.000","facility_type":"School","incident_address":"45 EAST 81
+STREET","incident_zip":"10028","latitude":"40.77745479875274","location":
+{"type":"Point","coordinates":
+[-73.960712549804,40.777454798753]},"location_type":"School","longitude":"-73.96071254980421"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 6 Lillie D
+Blake","resolution_action_updated_date":"2011-09-
+28T10:56:12.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"45 East 81 Street","school_city":"NEW
+YORK","school_code":"02M006","school_name":"School - PS 6 Lillie D
+Blake","school_not_found":"N","school_number":"006","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10028","status":"Closed","street_name":"EAST 81
+STREET","unique_key":"21504725","x_coordinate_state_plane":"995131","y_coordinate_state_plane
+":"222527"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-01-
+19T14:07:53.000","community_board":"11
+MANHATTAN","complaint_type":"Health","created_date":"2010-01-
+16T15:54:17.000","cross_street_1":"3 AVENUE","cross_street_2":"LEXINGTON
+AVENUE","descriptor":"Unhealthy Condition in School","due_date":"2010-01-
+20T15:54:17.000","facility_type":"School District","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80084142645326","location":
+{"type":"Point","coordinates":
+[-73.938958624395,40.800841426453]},"location_type":"School","longitude":"-73.93895862439518"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2010-01-
+19T14:07:42.000","resolution_description":"The Department of Education is reviewing your
+Service Request. If you have not heard back from the Department of Education within 4 - 5
+business days of submitting the request, contact 311 for updated status: Monday - Friday,
+from 8 AM to 6 PM.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_or_citywide_complaint":"School","
+school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"15745067","x_coordinate_state_plane":"1001150","y_coordinate_state_plan
+e":"231051"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-04-
+28T13:52:07.000","community_board":"11
+MANHATTAN","complaint_type":"Safety","created_date":"2010-02-
+01T18:51:47.000","cross_street_1":"3 AVENUE","cross_street_2":"LEXINGTON
+AVENUE","descriptor":"Altercation off School Property","due_date":"2010-02-
+05T18:51:47.000","facility_type":"School District","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80084142645326","location":
+{"type":"Point","coordinates":
+[-73.938958624395,40.800841426453]},"location_type":"School","longitude":"-73.93895862439518"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2010-04-
+28T13:51:33.000","resolution_description":"The Department of Education is reviewing your
+Service Request. If you have not heard back from the Department of Education within 4 - 5
+ business days of submitting the request, contact 311 for updated status: Monday - Friday,
+from 8 AM to 6 PM.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_or_citywide_complaint":"School","
+school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"15902487","x_coordinate_state_plane":"1001150","y_coordinate_state_plan
+e":"231051"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-04-
+28T11:40:22.000","community_board":"11 MANHATTAN","complaint_type":"Discipline and
+Suspension","created_date":"2010-03-22T20:25:27.000","cross_street_1":"3
+AVENUE","cross_street_2":"LEXINGTON AVENUE","descriptor":"Student/Parent
+Rights","due_date":"2010-03-27T20:25:27.000","facility_type":"School
+District","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80084142645326","location":
+{"type":"Point","coordinates":
+[-73.938958624395,40.800841426453]},"location_type":"School","longitude":"-73.93895862439518"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2010-04-
+28T11:39:23.000","resolution_description":"The Department of Education is reviewing your
+Service Request. If you have not heard back from the Department of Education within 4 - 5
+business days of submitting the request, contact 311 for updated status: Monday - Friday,
+from 8 AM to 6 PM.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_or_citywide_complaint":"School","
+school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"16271509","x_coordinate_state_plane":"1001150","y_coordinate_state_plan
+e":"231051"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-08-
+03T12:11:07.000","community_board":"11 MANHATTAN","complaint_type":"Parent
+Leadership","created_date":"2010-07-29T22:12:35.000","cross_street_1":"3
+AVENUE","cross_street_2":"LEXINGTON AVENUE","descriptor":"Complaint","due_date":"2010-08-
+03T22:12:35.000","facility_type":"School District","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80084142645326","location":
+{"type":"Point","coordinates":
+[-73.938958624395,40.800841426453]},"location_type":"School","longitude":"-73.93895862439518"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2010-08-
+03T12:11:00.000","resolution_description":"The Department of Education is reviewing your
+Service Request. If you have not heard back from the Department of Education within 4 - 5
+business days of submitting the request, contact 311 for updated status: Monday - Friday,
+from 8 AM to 6 PM.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_or_citywide_complaint":"School","
+school_phone_number":"NA 0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"18369244","x_coordinate_state_plane":"1001150","y_coordinate_state_plan
+e":"231051"}
+,{"agency":"DOE","agency_name":"School - PS 7 Samuel Stern","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2010-10-25T16:42:22.000","community_board":"11
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2010-10-
+24T18:44:51.000","cross_street_1":"3 AVENUE","cross_street_2":"LEXINGTON
+AVENUE","descriptor":"Unclean Condition","due_date":"2010-10-
+31T18:44:51.000","facility_type":"School","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80084142645326","location":
+{"type":"Point","coordinates":
+[-73.938958624395,40.800841426453]},"location_type":"School","longitude":"-73.93895862439518"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2010-10-
+25T00:00:00.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+ Stern","school_not_found":"N","school_number":"007","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"18966535","x_coordinate_state_plane":"1001150","y_coordinate_state_plan
+e":"231051"}
+,{"agency":"DOE","agency_name":"School - PS 7 Samuel Stern","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2011-10-04T14:31:27.000","community_board":"11
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2011-09-
+26T16:35:22.000","cross_street_1":"3 AVENUE","cross_street_2":"LEXINGTON
+AVENUE","descriptor":"Rodents/Mice","due_date":"2011-10-
+03T16:35:22.000","facility_type":"School","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80084142645326","location":
+{"type":"Point","coordinates":
+[-73.938958624395,40.800841426453]},"location_type":"School","longitude":"-73.93895862439518"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2011-10-
+04T14:31:27.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"21518348","x_coordinate_state_plane":"1001150","y_coordinate_state_plan
+e":"231051"}
+,{"agency":"DOE","agency_name":"School - PS 7 Samuel Stern","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2012-03-27T10:11:51.000","community_board":"11
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2012-03-
+22T15:41:15.000","cross_street_1":"3 AVENUE","cross_street_2":"LEXINGTON
+AVENUE","descriptor":"Unclean Condition","due_date":"2012-03-
+29T14:56:40.000","facility_type":"School","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80084142645326","location":
+{"type":"Point","coordinates":
+[-73.938958624395,40.800841426453]},"location_type":"School","longitude":"-73.93895862439518"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2012-03-
+27T10:10:54.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"22927384","x_coordinate_state_plane":"1001150","y_coordinate_state_plan
+e":"231051"}
+,{"agency":"DOE","agency_name":"School - PS 7 Samuel Stern","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2012-03-27T10:11:51.000","community_board":"11
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2012-03-
+22T15:43:24.000","cross_street_1":"3 AVENUE","cross_street_2":"LEXINGTON
+AVENUE","descriptor":"Unclean Condition","due_date":"2012-03-
+29T14:56:40.000","facility_type":"School","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80084142645326","location":
+{"type":"Point","coordinates":
+[-73.938958624395,40.800841426453]},"location_type":"School","longitude":"-73.93895862439518"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2012-03-
+27T10:10:54.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"22929859","x_coordinate_state_plane":"1001150","y_coordinate_state_plan
+e":"231051"}
+,{"agency":"DOE","agency_name":"School - PS 7 Samuel Stern","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2012-03-27T10:11:51.000","community_board":"11
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2012-03-
+ 22T14:56:40.000","cross_street_1":"3 AVENUE","cross_street_2":"LEXINGTON
+AVENUE","descriptor":"Unclean Condition","due_date":"2012-03-
+29T14:56:40.000","facility_type":"School","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80084142645326","location":
+{"type":"Point","coordinates":
+[-73.938958624395,40.800841426453]},"location_type":"School","longitude":"-73.93895862439518"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2012-03-
+27T10:11:51.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"22929177","x_coordinate_state_plane":"1001150","y_coordinate_state_plan
+e":"231051"}
+,{"agency":"DOE","agency_name":"School - PS 7 Samuel Stern","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-02-19T09:46:46.000","community_board":"11
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-02-
+02T14:46:30.000","cross_street_1":"3 AVENUE","cross_street_2":"LEXINGTON
+AVENUE","descriptor":"Unclean Condition","due_date":"2014-02-
+09T14:46:30.000","facility_type":"School","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80100631591135","location":
+{"type":"Point","coordinates":
+[-73.939348561116,40.801006315911]},"location_type":"School","longitude":"-73.93934856111623"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2014-02-
+19T09:45:46.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"27314173","x_coordinate_state_plane":"1001042","y_coordinate_state_plan
+e":"231111"}
+,{"agency":"DOE","agency_name":"School - PS 7 Samuel Stern","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2014-04-09T10:42:26.000","community_board":"11
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2014-04-
+06T10:59:05.000","cross_street_1":"3 AVENUE","cross_street_2":"LEXINGTON
+AVENUE","descriptor":"Rodents/Mice","due_date":"2014-04-
+13T10:59:05.000","facility_type":"School","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80100631591135","location":
+{"type":"Point","coordinates":
+[-73.939348561116,40.801006315911]},"location_type":"School","longitude":"-73.93934856111623"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+Stern","resolution_action_updated_date":"2014-04-
+09T10:42:26.000","resolution_description":"The Department of Education determined that this
+issue is not within its jurisdiction. It has been referred to the Department of
+Sanitation.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"27794468","x_coordinate_state_plane":"1001042","y_coordinate_state_plan
+e":"231111"}
+,{"agency":"DOE","agency_name":"School - PS 7 Samuel Stern","borough":"MANHATTAN","city":"NEW
+YORK","closed_date":"2015-06-23T09:19:06.000","community_board":"11
+MANHATTAN","complaint_type":"School Maintenance","created_date":"2015-06-
+12T09:09:07.000","cross_street_1":"3 AVENUE","cross_street_2":"LEXINGTON
+AVENUE","descriptor":"Air Conditioning Problem","due_date":"2015-06-
+19T09:09:07.000","facility_type":"School","incident_address":"160 EAST 120
+STREET","incident_zip":"10035","latitude":"40.80100631591135","location":
+{"type":"Point","coordinates":
+[-73.939348561116,40.801006315911]},"location_type":"School","longitude":"-73.93934856111623"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 7 Samuel
+ Stern","resolution_action_updated_date":"2015-06-
+23T09:19:06.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"160 East 120 Street","school_city":"NEW
+YORK","school_code":"04M007","school_name":"School - PS 7 Samuel
+Stern","school_not_found":"N","school_number":"007","school_phone_number":"NA
+0/0","school_region":"Region
+9","school_state":"NY","school_zip":"10035","status":"Closed","street_name":"EAST 120
+STREET","unique_key":"30834998","x_coordinate_state_plane":"1001042","y_coordinate_state_plan
+e":"231111"}
+,{"agency":"DOE","agency_name":"School - PS 8 Luis
+Belliard","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-09-
+27T11:20:32.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2011-09-26T13:24:57.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"JUMEL PLACE","descriptor":"Unclean Condition","due_date":"2011-10-
+03T13:24:57.000","facility_type":"School","incident_address":"465 WEST 167
+STREET","incident_zip":"10032","latitude":"40.83895344915834","location":
+{"type":"Point","coordinates":
+[-73.936838385647,40.838953449158]},"location_type":"School","longitude":"-73.93683838564696"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 8 Luis
+Belliard","resolution_action_updated_date":"2011-09-
+27T11:20:32.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"465 West 167 Street","school_city":"NEW
+YORK","school_code":"06M008","school_name":"School - PS 8 Luis
+Belliard","school_not_found":"N","school_number":"008","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 167
+STREET","unique_key":"21517603","x_coordinate_state_plane":"1001727","y_coordinate_state_plan
+e":"244937"}
+,{"agency":"DOE","agency_name":"School - PS 8 Luis
+Belliard","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-10-
+17T10:23:49.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2011-10-12T15:39:28.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"JUMEL PLACE","descriptor":"Unclean Condition","due_date":"2011-10-
+19T15:11:03.000","facility_type":"School","incident_address":"465 WEST 167
+STREET","incident_zip":"10032","latitude":"40.83895344915834","location":
+{"type":"Point","coordinates":
+[-73.936838385647,40.838953449158]},"location_type":"School","longitude":"-73.93683838564696"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 8 Luis
+Belliard","resolution_action_updated_date":"2011-10-
+17T10:22:32.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"465 West 167 Street","school_city":"NEW
+YORK","school_code":"06M008","school_name":"School - PS 8 Luis
+Belliard","school_not_found":"N","school_number":"008","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 167
+STREET","unique_key":"21629870","x_coordinate_state_plane":"1001727","y_coordinate_state_plan
+e":"244937"}
+,{"agency":"DOE","agency_name":"School - PS 8 Luis
+Belliard","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-10-
+17T10:23:49.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2011-10-12T15:11:03.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"JUMEL PLACE","descriptor":"Unclean Condition","due_date":"2011-10-
+19T15:11:03.000","facility_type":"School","incident_address":"465 WEST 167
+STREET","incident_zip":"10032","latitude":"40.83895344915834","location":
+{"type":"Point","coordinates":
+[-73.936838385647,40.838953449158]},"location_type":"School","longitude":"-73.93683838564696"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 8 Luis
+Belliard","resolution_action_updated_date":"2011-10-
+17T10:23:49.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"465 West 167 Street","school_city":"NEW
+YORK","school_code":"06M008","school_name":"School - PS 8 Luis
+Belliard","school_not_found":"N","school_number":"008","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 167
+STREET","unique_key":"21633562","x_coordinate_state_plane":"1001727","y_coordinate_state_plan
+ e":"244937"}
+,{"agency":"DOE","agency_name":"School - PS 8 Luis
+Belliard","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-10-
+18T15:53:20.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2011-10-17T18:21:54.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"JUMEL PLACE","descriptor":"Unclean Condition","due_date":"2011-10-
+24T18:21:54.000","facility_type":"School","incident_address":"465 WEST 167
+STREET","incident_zip":"10032","latitude":"40.83895344915834","location":
+{"type":"Point","coordinates":
+[-73.936838385647,40.838953449158]},"location_type":"School","longitude":"-73.93683838564696"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 8 Luis
+Belliard","resolution_action_updated_date":"2011-10-
+18T15:53:20.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"465 West 167 Street","school_city":"NEW
+YORK","school_code":"06M008","school_name":"School - PS 8 Luis
+Belliard","school_not_found":"N","school_number":"008","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 167
+STREET","unique_key":"21675679","x_coordinate_state_plane":"1001727","y_coordinate_state_plan
+e":"244937"}
+,{"agency":"DOE","agency_name":"School - PS 8 Luis
+Belliard","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2011-12-
+05T09:08:58.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2011-12-01T13:35:39.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"JUMEL PLACE","descriptor":"Unclean Condition","due_date":"2011-12-
+08T13:35:39.000","facility_type":"School","incident_address":"465 WEST 167
+STREET","incident_zip":"10032","latitude":"40.83895344915834","location":
+{"type":"Point","coordinates":
+[-73.936838385647,40.838953449158]},"location_type":"School","longitude":"-73.93683838564696"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 8 Luis
+Belliard","resolution_action_updated_date":"2011-12-
+05T09:08:58.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"465 West 167 Street","school_city":"NEW
+YORK","school_code":"06M008","school_name":"School - PS 8 Luis
+Belliard","school_not_found":"N","school_number":"008","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 167
+STREET","unique_key":"22240257","x_coordinate_state_plane":"1001727","y_coordinate_state_plan
+e":"244937"}
+,{"agency":"DOE","agency_name":"School - PS 8 Luis
+Belliard","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2015-05-
+06T14:39:24.000","community_board":"12 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2015-05-01T11:12:46.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"JUMEL PLACE","descriptor":"Unclean Condition","due_date":"2015-05-
+08T11:12:46.000","facility_type":"School","incident_address":"465 WEST 167
+STREET","incident_zip":"10032","latitude":"40.83895344915834","location":
+{"type":"Point","coordinates":
+[-73.936838385647,40.838953449158]},"location_type":"School","longitude":"-73.93683838564696"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 8 Luis
+Belliard","resolution_action_updated_date":"2015-05-
+06T14:39:24.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"465 West 167 Street","school_city":"NEW
+YORK","school_code":"06M008","school_name":"School - PS 8 Luis
+Belliard","school_not_found":"N","school_number":"008","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10032","status":"Closed","street_name":"WEST 167
+STREET","unique_key":"30525426","x_coordinate_state_plane":"1001727","y_coordinate_state_plan
+e":"244937"}
+,{"agency":"DOE","agency_name":"School - PS 9 Sarah
+Anderson","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-03-
+12T11:51:25.000","community_board":"07 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2010-03-02T11:57:22.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"COLUMBUS AVENUE","descriptor":"Snow/Ice","due_date":"2010-03-
+09T11:57:22.000","facility_type":"School","incident_address":"100 WEST 84
+STREET","incident_zip":"10024","latitude":"40.78534408809947","location":
+ {"type":"Point","coordinates":
+[-73.973566932621,40.785344088099]},"location_type":"School","longitude":"-73.97356693262132"
+,"park_borough":"MANHATTAN","park_facility_name":"School - PS 9 Sarah
+Anderson","resolution_action_updated_date":"2010-03-12T00:00:00.000","school_address":"100
+West 84 Street","school_city":"NEW YORK","school_code":"03M009","school_name":"School - PS 9
+Sarah Anderson","school_not_found":"N","school_number":"009","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10024","status":"Closed","street_name":"WEST 84
+STREET","unique_key":"16118560","x_coordinate_state_plane":"991570","y_coordinate_state_plane
+":"225400"}
+,{"agency":"DOE","agency_name":"School - PS 9 Sarah
+Anderson","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2013-10-
+29T09:03:52.000","community_board":"07 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2013-10-17T13:39:08.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"COLUMBUS AVENUE","descriptor":"Other School
+Condition","due_date":"2013-10-
+24T13:39:08.000","facility_type":"School","incident_address":"100 WEST 84
+STREET","incident_zip":"10024","latitude":"40.78528641714893","location":
+{"type":"Point","coordinates":
+[-73.97342973479,40.785286417149]},"location_type":"School","longitude":"-73.9734297347899","
+park_borough":"MANHATTAN","park_facility_name":"School - PS 9 Sarah
+Anderson","resolution_action_updated_date":"2013-10-
+29T09:03:52.000","resolution_description":"The Department of Education determined that this
+issue is not within its jurisdiction. It has been referred to the Department of
+Sanitation.","school_address":"100 West 84 Street","school_city":"NEW
+YORK","school_code":"03M009","school_name":"School - PS 9 Sarah
+Anderson","school_not_found":"N","school_number":"009","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10024","status":"Closed","street_name":"WEST 84
+STREET","unique_key":"26505364","x_coordinate_state_plane":"991608","y_coordinate_state_plane
+":"225379"}
+,{"agency":"DOE","agency_name":"School - PS 9 Sarah
+Anderson","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2016-02-
+03T11:01:47.000","community_board":"07 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2016-01-20T19:43:06.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"COLUMBUS AVENUE","descriptor":"Rodents/Mice","due_date":"2016-01-
+27T19:43:06.000","facility_type":"School","incident_address":"100 WEST 84
+STREET","incident_zip":"10024","latitude":"40.78528641714893","location":
+{"type":"Point","coordinates":
+[-73.97342973479,40.785286417149]},"longitude":"-73.9734297347899","park_borough":"MANHATTAN"
+,"park_facility_name":"School - PS 9 Sarah Anderson","resolution_action_updated_date":"2016-
+02-03T11:01:47.000","resolution_description":"The Department of Education completed the work
+and corrected the condition.","school_address":"100 West 84 Street","school_city":"NEW
+YORK","school_code":"03M009","school_name":"School - PS 9 Sarah
+Anderson","school_number":"009","school_phone_number":"NA 0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10024","status":"Closed","street_name":"WEST 84
+STREET","unique_key":"32463988","x_coordinate_state_plane":"991608","y_coordinate_state_plane
+":"225379"}
+,{"agency":"DOE","agency_name":"School - PS 9 Sarah
+Anderson","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2016-02-
+03T11:01:47.000","community_board":"07 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2016-01-23T21:43:22.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"COLUMBUS AVENUE","descriptor":"Rodents/Mice","due_date":"2016-01-
+27T19:43:06.000","facility_type":"School","incident_address":"100 WEST 84
+STREET","incident_zip":"10024","latitude":"40.78528641714893","location":
+{"type":"Point","coordinates":
+[-73.97342973479,40.785286417149]},"longitude":"-73.9734297347899","park_borough":"MANHATTAN"
+,"park_facility_name":"School - PS 9 Sarah Anderson","resolution_action_updated_date":"2016-
+02-03T11:00:45.000","resolution_description":"The Department of Education completed the work
+and corrected the condition.","school_address":"100 West 84 Street","school_city":"NEW
+YORK","school_code":"03M009","school_name":"School - PS 9 Sarah
+Anderson","school_number":"009","school_phone_number":"NA 0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10024","status":"Closed","street_name":"WEST 84
+STREET","unique_key":"32489105","x_coordinate_state_plane":"991608","y_coordinate_state_plane
+":"225379"}
+ ,{"agency":"DOE","agency_name":"School - PS 9 Sarah
+Anderson","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2017-02-
+09T10:36:51.000","community_board":"07 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2016-09-29T07:45:49.000","cross_street_1":"AMSTERDAM
+AVENUE","cross_street_2":"COLUMBUS AVENUE","descriptor":"Unclean Condition","due_date":"2016-
+10-06T07:45:49.000","facility_type":"School","incident_address":"100 WEST 84
+STREET","incident_zip":"10024","latitude":"40.78528641714893","location":
+{"type":"Point","coordinates":
+[-73.97342973479,40.785286417149]},"location_type":"School","longitude":"-73.9734297347899","
+park_borough":"MANHATTAN","park_facility_name":"School - PS 9 Sarah
+Anderson","resolution_action_updated_date":"2017-02-
+09T10:36:51.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"100 West 84 Street","school_city":"NEW
+YORK","school_code":"03M009","school_name":"School - PS 9 Sarah
+Anderson","school_not_found":"N","school_number":"009","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10024","status":"Closed","street_name":"WEST 84
+STREET","unique_key":"34436961","x_coordinate_state_plane":"991608","y_coordinate_state_plane
+":"225379"}
+,{"agency":"DOE","agency_name":"Central - Department of
+Education","borough":"MANHATTAN","city":"NEW YORK","closed_date":"2010-12-
+14T11:05:47.000","community_board":"10 MANHATTAN","complaint_type":"School
+Maintenance","created_date":"2010-12-13T20:57:53.000","cross_street_1":"WEST 150
+STREET","cross_street_2":"WEST 149 STREET","descriptor":"Unclean Condition","due_date":"2010-
+12-20T20:57:53.000","facility_type":"School","incident_address":"2581 7
+AVENUE","incident_zip":"10039","latitude":"40.824318790731","location":
+{"type":"Point","coordinates":
+[-73.937119652947,40.824318790731]},"location_type":"School","longitude":"-73.93711965294742"
+,"park_borough":"MANHATTAN","park_facility_name":"Closed School - JHS 10 Frederick
+Douglas","resolution_action_updated_date":"2010-12-
+14T11:05:47.000","resolution_description":"The Department of Education completed the work and
+corrected the condition.","school_address":"2581 7th Avenue","school_city":"NEW
+YORK","school_code":"05M010","school_name":"Closed School - JHS 10 Frederick
+Douglas","school_not_found":"N","school_number":"010","school_phone_number":"NA
+0/0","school_region":"Region
+10","school_state":"NY","school_zip":"10039","status":"Closed","street_name":"7
+AVENUE","unique_key":"19331064","x_coordinate_state_plane":"1001653","y_coordinate_state_plan
+e":"239605"}]

@@ -140,7 +140,6 @@ To get the statements for a specific company, one can write a query with the fol
 I generated this query with the following code:
 
 ```python
-get
 import requests
 
 # Set up URL
@@ -304,7 +303,6 @@ Here is the result for our search:
 Here are the two officers that our search returned:
 
 ```
-uid
 [{'officer': {'id': 225418939, 'uid': None, 'name': 'MICHAEL BLOOMBERG', 'jurisdiction_code': 'us_ny', 'position': 'chief executive officer', 'retrieved_at': '2018-01-23T03:26:17+00:00', 'opencorporates_url': 'https://opencorporates.com/officers/225418939', 'start_date': None, 'end_date': None, 'occupation': None, 'current_status': None, 'inactive': False, 'company': {'name': 'MARLBOROUGH ASSOCIATES, INC.', 'jurisdiction_code': 'us_ny', 'company_number': '1297997', 'opencorporates_url': 'https://opencorporates.com/companies/us_ny/1297997'}}}, {'officer': {'id': 225078260, 'uid': None, 'name': 'MICHAEL BLOOMBERG', 'jurisdiction_code': 'us_ny', 'position': 'chief executive officer', 'retrieved_at': '2016-07-07T13:41:08+00:00', 'opencorporates_url': 'https://opencorporates.com/officers/225078260', 'start_date': None, 'end_date': None, 'occupation': None, 'current_status': None, 'inactive': True, 'company': {'name': 'BLOOMBERG ASIA INC.', 'jurisdiction_code': 'us_ny', 'company_number': '1210780', 'opencorporates_url': 'https://opencorporates.com/companies/us_ny/1210780'}}}]
 ```
 

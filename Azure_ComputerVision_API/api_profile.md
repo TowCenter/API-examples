@@ -172,17 +172,17 @@ The JSON returned below has detected that Donald Trump and Vladmir Putin are in 
 
 The **describe image** query is a **POST** request that takes in an image URL or a raw image binary through the request body and are returns a readable text description of the image along with a collection of content tags.
 
-##### Example Query
-See *query_describe_image_.py* in this repo for access to Python code and a cURL to test this query out.
-```
-'https://eastus.api.cognitive.microsoft.com/vision/v2.0/describe'
-```
-
 ##### Request parameters
 
 <u>maxCandidates</u> - Number of description sentences to return for the image.
 
 Go [here](https://westus.dev.cognitive.microsoft.com/docs/services/56f91f2d778daf23d8ec6739/operations/56f91f2e778daf14a499e1fe) for more information on this request parameter and its supported values.
+
+##### Example Query
+See *query_describe_image_.py* in this repo for access to Python code and a cURL to test this query out.
+```
+'https://eastus.api.cognitive.microsoft.com/vision/v2.0/describe'
+```
 
 Request Body:
 ```
@@ -247,12 +247,6 @@ The JSON returned below contains two text captions that describe the image in re
 
 The **OCR** query is a **POST** request that takes in an image URL or a raw image binary data through the request body and returns the words recognized in order with bounding box information.
 
-##### Example Query
-See *query_ocr.py* in this repo for access to Python code and a cURL to test this query out.
-```
-'https://eastus.api.cognitive.microsoft.com/vision/v1.0/ocr?language=en&detectOrientation=true'
-```
-
 ##### Request parameters
 
 <u>language</u> - The language code of the text to be detected. In the example query below. The default value is `unk` which autodetects the language. In the example query below we use `en` which sets the language to detect to english.
@@ -262,9 +256,11 @@ See *query_ocr.py* in this repo for access to Python code and a cURL to test thi
 Go [here](https://westcentralus.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e6355ad44/operations/56f91f2e778daf14a499e1fc) for more information on these request parameters and their supported values.
 
 ##### Example Query
+See *query_ocr.py* in this repo for access to Python code and a cURL to test this query out.
 ```
-https://eastus.api.cognitive.microsoft.com/vision/v1.0/ocr?language=en&detectOrientation=true
+'https://eastus.api.cognitive.microsoft.com/vision/v1.0/ocr?language=en&detectOrientation=true'
 ```
+
 Request Body:
 ```
 {

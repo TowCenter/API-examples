@@ -1,6 +1,8 @@
 # FourSquare Places API Manual:
 
-The Places API from FourSquare provides search results for venues, recommended venues, venue photos, tips, hours, menu, list of trending venues, access information on current events at a venue and a host of other options. It also allows to report errors about venues. All these options have their own endpoints. For example, to get details of a venue, we can use the following endpoint:
+FourSquare is a search and discovery mobile app that allows users to look up restaurants, shops and other places of interest around them. The app provides personalized recommendations to users based on their browsing and check-in history.
+
+The Places API utilizes FourSquare's database of venues and user content to provide location-based search results. It can be used to search for venues, recommended venues, venue photos, tips, hours, menu, list of trending venues, access information on current events at a venue and a host of other options. It also allows to report errors about venues. All these options have their own endpoints. For example, to get details of a venue, we can use the following endpoint:
 
 `https://api.foursquare.com/v2/venues/VENUE_ID`
 
@@ -19,7 +21,7 @@ Structure of the full URL is as follows:
 
 The above URL structure specifies all the mandatory parameters that are required for the API to work and return data. Using this API requires two keys: Client ID and Client Secure. Here are the steps to obtain the keys.
 
-* Create a developer account on https://developer.foursquare.com 
+* Create a developer account on https://developer.foursquare.com
 * Create an app which shall use the FourSquare Places API. Provide a name for the app and the URL. If URL is not known, put in a random URL. I put in journalism.columbia.edu
 * Select a payment plan. Depending on whether you need premium features or not, select the plan which is most appropriate for your needs.
 * Once the app is created and payment plan is chosen, the app appears on the profile page, along with the required keys.
@@ -44,7 +46,7 @@ data = json.loads(resp.text)
 
 The above code was taken from [https://developer.foursquare.com/docs/api](https://developer.foursquare.com/docs/api).
 
-Client ID and Client Secure are needed for Userless authentication. For User authentication, FourSquare uses OAuth 2.0. In this document, we focus on userless authentication.
+Client ID and Client Secure are needed for userless authentication. For User authentication, FourSquare uses OAuth 2.0. In this document, we focus on userless authentication.
 
 The parameters are explained below:
 1.	Client ID and Client Secure: Authentication keys for the API request.
@@ -73,7 +75,7 @@ The parameters are explained below:
 14.	time: Allowed value for this parameter is any. By default, the API returns results based on current time of day.
 15.	day: Allowed value for this parameter is any. By default, the API returns results based on current day of the week.
 16.	lastVenue: This parameter specifies a venue ID and is used to return venues which users visit frequently after visiting a certain venue. It is used in combination with the intent=nextVenues parameter
-17.	openNow: Takes value 1 to indicate results should include only those venues which are open at that time. 
+17.	openNow: Takes value 1 to indicate results should include only those venues which are open at that time.
 18.	sortByDistance: Takes value 1 to sort the venues in order of distance
 19.	price: Specifies price points. It can take comma separated values. Values can range from 1 to 4 in the following format: ‘2,4’. The price bands are defined as follows:
     1. less than $10 per entrée
@@ -492,157 +494,157 @@ Response for the above query is given below:
 ```
 {
   "meta": {
-    "code": 200, 
+    "code": 200,
     "requestId": "5c6097a7db04f54530cf1bdd"
-  }, 
+  },
   "response": {
-    "headerFullLocation": "Chicago", 
+    "headerFullLocation": "Chicago",
     "groups": [
       {
         "items": [
           {
             "reasons": {
-              "count": 0, 
+              "count": 0,
               "items": [
                 {
-                  "reasonName": "globalInteractionReason", 
-                  "type": "general", 
+                  "reasonName": "globalInteractionReason",
+                  "type": "general",
                   "summary": "This spot is popular"
                 }
               ]
-            }, 
+            },
             "venue": {
-              "verified": false, 
-              "name": "Publican Quality Meats", 
+              "verified": false,
+              "name": "Publican Quality Meats",
               "hereNow": {
-                "count": 0, 
-                "groups": [], 
+                "count": 0,
+                "groups": [],
                 "summary": "Nobody here"
-              }, 
+              },
               "delivery": {
-                "url": "https://www.grubhub.com/restaurant/publican-quality-meats-825-w-fulton-market-chicago/758352?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=758352", 
-                "id": "758352", 
+                "url": "https://www.grubhub.com/restaurant/publican-quality-meats-825-w-fulton-market-chicago/758352?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=758352",
+                "id": "758352",
                 "provider": {
-                  "name": "grubhub", 
+                  "name": "grubhub",
                   "icon": {
-                    "prefix": "https://fastly.4sqi.net/img/general/cap/", 
-                    "name": "/delivery_provider_grubhub_20180129.png", 
+                    "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                    "name": "/delivery_provider_grubhub_20180129.png",
                     "sizes": [
-                      40, 
+                      40,
                       50
                     ]
                   }
                 }
-              }, 
+              },
               "photos": {
-                "count": 0, 
+                "count": 0,
                 "groups": []
-              }, 
-              "contact": {}, 
+              },
+              "contact": {},
               "location": {
-                "city": "Chicago", 
+                "city": "Chicago",
                 "labeledLatLngs": [
                   {
-                    "lat": 41.886641964097095, 
-                    "lng": -87.64871823183745, 
+                    "lat": 41.886641964097095,
+                    "lng": -87.64871823183745,
                     "label": "display"
                   }
-                ], 
-                "cc": "US", 
-                "country": "United States", 
-                "postalCode": "60607", 
-                "state": "IL", 
+                ],
+                "cc": "US",
+                "country": "United States",
+                "postalCode": "60607",
+                "state": "IL",
                 "formattedAddress": [
-                  "825 W Fulton Market (at Green)", 
-                  "Chicago, IL 60607", 
+                  "825 W Fulton Market (at Green)",
+                  "Chicago, IL 60607",
                   "United States"
-                ], 
-                "crossStreet": "at Green", 
-                "address": "825 W Fulton Market", 
-                "lat": 41.886641964097095, 
+                ],
+                "crossStreet": "at Green",
+                "address": "825 W Fulton Market",
+                "lat": 41.886641964097095,
                 "lng": -87.64871823183745
-              }, 
+              },
               "beenHere": {
-                "count": 0, 
-                "unconfirmedCount": 0, 
-                "marked": false, 
+                "count": 0,
+                "unconfirmedCount": 0,
+                "marked": false,
                 "lastCheckinExpiredAt": 0
-              }, 
+              },
               "stats": {
-                "checkinsCount": 0, 
-                "tipCount": 0, 
-                "visitsCount": 0, 
+                "checkinsCount": 0,
+                "tipCount": 0,
+                "visitsCount": 0,
                 "usersCount": 0
-              }, 
-              "id": "4f2a0d0ae4b0837d0c4c2bc3", 
+              },
+              "id": "4f2a0d0ae4b0837d0c4c2bc3",
               "categories": [
                 {
-                  "pluralName": "Delis / Bodegas", 
-                  "primary": true, 
-                  "name": "Deli / Bodega", 
-                  "shortName": "Deli / Bodega", 
-                  "id": "4bf58dd8d48988d146941735", 
+                  "pluralName": "Delis / Bodegas",
+                  "primary": true,
+                  "name": "Deli / Bodega",
+                  "shortName": "Deli / Bodega",
+                  "id": "4bf58dd8d48988d146941735",
                   "icon": {
-                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_", 
+                    "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
                     "suffix": ".png"
                   }
                 }
               ]
-            }, 
+            },
             "referralId": "e-3-4f2a0d0ae4b0837d0c4c2bc3-0"
           }
-        ], 
-        "type": "Recommended Places", 
+        ],
+        "type": "Recommended Places",
         "name": "recommended"
       }
-    ], 
-    "totalResults": 190, 
+    ],
+    "totalResults": 190,
     "warning": {
       "text": "There aren't a lot of results near you. Try something more general, reset your filters, or expand the search area."
-    }, 
+    },
     "geocode": {
-      "what": "", 
+      "what": "",
       "center": {
-        "lat": 41.85003, 
+        "lat": 41.85003,
         "lng": -87.65005
-      }, 
-      "longId": "72057594042815334", 
-      "cc": "US", 
+      },
+      "longId": "72057594042815334",
+      "cc": "US",
       "geometry": {
         "bounds": {
           "sw": {
-            "lat": 41.644286, 
+            "lat": 41.644286,
             "lng": -87.940101
-          }, 
+          },
           "ne": {
-            "lat": 42.023134999999996, 
+            "lat": 42.023134999999996,
             "lng": -87.52366099999999
           }
         }
-      }, 
-      "displayString": "Chicago, IL, United States", 
-      "where": "chicago il", 
+      },
+      "displayString": "Chicago, IL, United States",
+      "where": "chicago il",
       "slug": "chicago-illinois"
-    }, 
+    },
     "suggestedFilters": {
-      "header": "Tap to show:", 
+      "header": "Tap to show:",
       "filters": [
         {
-          "name": "Open now", 
+          "name": "Open now",
           "key": "openNow"
         }
       ]
-    }, 
-    "query": "food", 
-    "headerLocationGranularity": "city", 
-    "headerLocation": "Chicago", 
+    },
+    "query": "food",
+    "headerLocationGranularity": "city",
+    "headerLocation": "Chicago",
     "suggestedBounds": {
       "sw": {
-        "lat": 41.88529213420437, 
+        "lat": 41.88529213420437,
         "lng": -87.64602444917091
-      }, 
+      },
       "ne": {
-        "lat": 41.88799179398982, 
+        "lat": 41.88799179398982,
         "lng": -87.65141201450399
       }
     }
@@ -658,7 +660,7 @@ Important fields in response are explained below:
 * id: An ID that uniquely identifies the venue
 * name: Best known name for the venue
 * location:  Address of the venue. The address could be mentioned in full, or it can be partial. For some venues, the address is hidden for privacy purposes.
-* categories: List of categories applied to that venue. 
+* categories: List of categories applied to that venue.
 
 
 ## Error messages

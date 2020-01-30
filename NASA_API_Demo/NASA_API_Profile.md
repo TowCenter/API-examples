@@ -19,7 +19,7 @@ Navigate to the Mars Rover Photos API using this URL: https://api.nasa.gov/api.h
 
 #### A quick aside about APIs
 
-Certain APIs, like the Mars rover photos API, return information using a URL. In these cases, you can ask for certain bits of information in an API's database by adding variables to the URL. Then, you can run the URL through your browser and your browser will return a package of information. In the case of the Mars rover photos API, it returns its information as a JSON object. If you don't know what a JSON object is, [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) is a not-very-brief description of them. Just knowing their basic structure is more than enough to understand this API. 
+Many APIs, like the Mars rover photos API, return information using a URL. In these cases, you can ask for certain bits of information in an API's database by adding variables to the URL. Then, you can run the URL through your browser and your browser will return a package of information. In the case of the Mars rover photos API, it returns its information as a JSON object. If you don't know what a JSON object is, [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) is a not-very-brief description of them. Just knowing their basic structure is more than enough to understand this API. 
 
 We will cover the different variables at your disposal in a later section. 
 

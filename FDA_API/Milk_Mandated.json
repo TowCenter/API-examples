@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2019-12-14",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "country": "United States",
+      "city": "Newport Beach",
+      "reason_for_recall": "Graceleigh, Inc. dba Sammy\u0019s Milk is recalling certain lots of Sammy\u0019s Milk (Baby Food) because of possible presence of Cronobacter, a bacteria that can cause severe and sometimes fatal bloom infections or meningitis in infants (under 12 months of age) and it may not provide adequate nutritional levels of iron.",
+      "address_1": "3419 Via Lido",
+      "address_2": "",
+      "code_info": "all lots:    AA141103  AB141103  AC141103  AD141103  AE141103  AF141103  AG141103  AA160526  AA160606A  AA160606B  AA160606C  AA160606D  AA160606E  AA160606F  AA160606G  AA160606H  AA160606I  AA160606J  AA160606K",
+      "product_quantity": "20,008 units",
+      "center_classification_date": "20170324",
+      "distribution_pattern": "US",
+      "state": "CA",
+      "product_description": "Sammy's Milk (Baby Food), Net Wt. 12.84 oz (364 g), 6 containers per case",
+      "report_date": "20170405",
+      "classification": "Class I",
+      "openfda": {},
+      "recall_number": "F-1724-2017",
+      "recalling_firm": "Sammy's Milk",
+      "initial_firm_notification": "Press Release",
+      "event_id": "75333",
+      "product_type": "Food",
+      "termination_date": "20170328",
+      "more_code_info": null,
+      "recall_initiation_date": "20160930",
+      "postal_code": "92663-3908",
+      "voluntary_mandated": "FDA Mandated",
+      "status": "Terminated"
+    }
+  ]
+}
